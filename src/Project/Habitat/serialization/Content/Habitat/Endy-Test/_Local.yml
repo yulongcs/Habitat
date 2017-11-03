@@ -1,16 +1,14 @@
 ﻿---
-ID: "49c3ae19-a2e2-47af-a679-4988de59b7d5"
-Parent: "dac24edd-44fb-42ef-9ecd-1e8daf706386"
+ID: "cb3fc846-e1d4-4ffb-8769-521d52c46e91"
+Parent: "43d4bed1-250c-410e-bab2-2d2c8a9ed898"
 Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
-Path: /sitecore/content/Habitat/Home/_Local
+Path: "/sitecore/content/Habitat/Endy-Test/_Local"
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: |
-    {C7D9D293-4EF8-4380-8E10-C4632E729F39}
-    {C18D3794-D126-4548-BFC8-89358DE6E9C1}
+  Value: "{C18D3794-D126-4548-BFC8-89358DE6E9C1}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: "-1000"
@@ -21,8 +19,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161229T040157Z
+      Value: 20171101T012129Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\endy
