@@ -1,5 +1,5 @@
 module.exports = function () {
-    var instanceRoot = "D:\\inetpub\\wwwroot\\Habitat.dev.local";
+    var instanceRoot = "D:\\inetpub\\wwwroot\\Habitat.sxa.update4";
   var config = {
     websiteRoot: instanceRoot + "\\Website",
     sitecoreLibraries: instanceRoot + "\\Website\\bin",
