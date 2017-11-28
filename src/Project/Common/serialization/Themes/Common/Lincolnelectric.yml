@@ -1,0 +1,22 @@
+﻿---
+ID: "e9a5b70e-7114-47fa-9f9f-b6dbc9b666cd"
+Parent: "7415df42-e954-4010-a62d-0bb80b4d5de4"
+Template: "1c87ea50-cc18-48cc-86de-592e274d0c4f"
+Path: /sitecore/system/Settings/Project/Themes/Common/Lincolnelectric
+DB: master
+SharedFields:
+- ID: "4867d192-326a-4aa4-81ef-ea430e224aff"
+  Hint: Css assets
+  Value: /styles/lincolnelectric.min.css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171114T023725Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\endy

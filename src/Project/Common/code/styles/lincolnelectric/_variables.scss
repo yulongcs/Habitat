@@ -1,0 +1,43 @@
+//Typography
+$font-size-base: 14px;
+$font-size-h1: 36px !default;
+$font-size-h2: 30px !default;
+$font-size-h3: 24px !default;
+$font-size-h4: 18px !default;
+$font-size-h5: 16px !default;
+
+$line-height-base: 1.428571429; // 20/14
+$line-height-computed: floor(($font-size-base * $line-height-base)); // ~20px
+
+$font-family-sans-serif: Microsoft Yahei, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-serif: Microsoft Yahei, 'Bitter', Georgia, "Times New Roman", Times, serif;
+
+//Colors
+$color-primary: #8b0e1a;
+$color-primary-light: #be1e2e;
+
+$color-secondary: #333;
+$color-secondary-dark: #000;
+$color-secondary-light: #999;
+$color-secondary-lighter: #e6e7e8;
+
+//Components
+$border-radius-small: 5px;
+
+//Scaffolding
+$footer-background-color: $color-secondary;
+$footer-text-color: #fff;
+
+//Sidebar
+$sidebar-toggle-border-radius: $border-radius-small;
+$header-background-color: $color-primary;
+
+//Overlay
+$bg-media-overlay-color: #5c646b;
+
+//Navbar
+$navbar-default-bg: #fff;
+$navbar-default-toggle-border-color: transparent !default;
+$navbar-default-link-hover-color: $color-primary-light;
+$navbar-default-link-hover-bg: $color-secondary-lighter;
+$navbar-default-link-color: $color-primary-light;

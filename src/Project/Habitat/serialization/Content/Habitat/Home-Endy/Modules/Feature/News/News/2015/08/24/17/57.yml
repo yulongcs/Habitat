@@ -1,0 +1,14 @@
+﻿---
+ID: "e6c8f1b1-60c6-457c-af34-f502859470ca"
+Parent: "b91f86a7-1a00-4528-ad0c-22d998f08c87"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Habitat/Home-Endy/Modules/Feature/News/News/2015/08/24/17/57"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151210T043731Z
